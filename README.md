@@ -1,0 +1,1 @@
+# Learning ES6 syntax on modules and applying it in the shopping list app
